@@ -49,7 +49,7 @@ export default function EditContact() {
         <input
           defaultValue={contact.twitter}
           name="twitter"
-          placeholder="@jack"
+          placeholder="handle"
           type="text"
         />
       </label>
